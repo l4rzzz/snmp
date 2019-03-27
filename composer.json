@@ -1,0 +1,10 @@
+{
+    "name": "l4rzzz/snmp",
+    "description": "Interact with network connected devices using SNMP",
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {"L4rzzz\\Snmp\\" : "src/"}
+    }
+}
